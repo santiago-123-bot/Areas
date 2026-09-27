@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Areas/Areas.csproj" />
+  <Project Path="Refactorizacion/Refactorizacion.csproj" />
+</Solution>
